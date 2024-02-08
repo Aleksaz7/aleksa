@@ -1,0 +1,15 @@
+td {
+    border: 2px solid #ccff33; 
+}
+.navbar-brand{
+     color: #0066ff;
+     font-family: fantasy;
+}
+h1{
+    color: #33cc33;
+    text-align: center;
+}
+.navlink {
+    color:aqua;
+    font-size: 25px;
+}
